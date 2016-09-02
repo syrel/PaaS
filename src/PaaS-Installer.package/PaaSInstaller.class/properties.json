@@ -1,0 +1,14 @@
+{
+	"category" : "PaaS-Installer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"repository" ],
+	"name" : "PaaSInstaller",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

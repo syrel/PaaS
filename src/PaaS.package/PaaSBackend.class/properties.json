@@ -1,0 +1,14 @@
+{
+	"category" : "PaaS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PaaSBackend",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

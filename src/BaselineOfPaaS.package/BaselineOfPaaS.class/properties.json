@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfPaaS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AliakseiSyrel 9/2/2016 20:14",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfPaaS",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
