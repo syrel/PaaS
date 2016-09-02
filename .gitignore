@@ -22,3 +22,6 @@ github-*.zip
 
 #Squeak
 /squeak
+
+#Idea
+.idea
