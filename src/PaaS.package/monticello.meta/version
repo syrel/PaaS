@@ -1,2 +1,2 @@
-(name 'PaaS-AliakseiSyrel.2' message 'Implemented post response' id '9ffd1a15-c5b7-48ad-8812-26aca2cc1c6e' date '3 September 2016' time '11:00:09.377268 am' author 'AliakseiSyrel' ancestors ((name 'PaaS-AliakseiSyrel.1' message 'simple way to start server
-' id '9387c4b0-4956-5fd5-93a0-50cf281654ba' date '2 September 2016' time '8:18:35 pm' author 'AliakseiSyrel' ancestors () stepChildren ())) stepChildren ())
+(name 'PaaS-AliakseiSyrel.3' message 'if string is nil, parse empty one' id '2ad4e45a-742b-4820-9769-fb4d22019614' date '3 September 2016' time '11:13:35.411731 am' author 'AliakseiSyrel' ancestors ((name 'PaaS-AliakseiSyrel.2' message 'Implemented post response
+' id '1772ae7a-b1f5-5a28-94bb-cc3945caad3a' date '3 September 2016' time '11:00:09 am' author 'AliakseiSyrel' ancestors () stepChildren ())) stepChildren ())
