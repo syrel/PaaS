@@ -1,8 +1,9 @@
 request handling
 handlePostRequest: request
-	| piller badRequest |
-	badRequest := [ ^ ZnResponse badRequest: request ].
-	(request hasEntity and: [ request contentType matches: ZnMimeType text ])
-		ifFalse: badRequest.
-	piller := request entity string ifNil: ''.
-	^ ZnResponse ok: (ZnEntity text: (self return: (PRPillarParser parse: piller)))
+	| pillar |
+	(request contentType matches: ZnMimeType text)
+		ifFalse: [ ^ ZnResponse badRequest: request ].
+	pillar := request hasEntity
+		ifTrue: [ request entity string ifNil: [ '' ] ]
+		ifFalse: [ '' ].
+	^ ZnResponse ok: (ZnEntity text: (self return: (PRPillarParser parse: pillar)))

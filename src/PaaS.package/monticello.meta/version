@@ -1,2 +1,2 @@
-(name 'PaaS-AliakseiSyrel.3' message 'if string is nil, parse empty one' id '2ad4e45a-742b-4820-9769-fb4d22019614' date '3 September 2016' time '11:13:35.411731 am' author 'AliakseiSyrel' ancestors ((name 'PaaS-AliakseiSyrel.2' message 'Implemented post response
-' id '1772ae7a-b1f5-5a28-94bb-cc3945caad3a' date '3 September 2016' time '11:00:09 am' author 'AliakseiSyrel' ancestors () stepChildren ())) stepChildren ())
+(name 'PaaS-AliakseiSyrel.4' message 'if there is no entity parse empty line anyway' id '790843ac-faa7-48e6-9746-e0c947864bcf' date '3 September 2016' time '11:22:02.234354 am' author 'AliakseiSyrel' ancestors ((name 'PaaS-AliakseiSyrel.3' message 'if string is nil, parse empty one
+' id '78c44f14-fc7a-5591-8ca4-9c53cab7eecf' date '3 September 2016' time '11:14:12 am' author 'AliakseiSyrel' ancestors () stepChildren ())) stepChildren ())
