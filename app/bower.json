@@ -13,7 +13,9 @@
     "motion-ui": "~1.1.0",
     "foundation-sites": "~6.2.0",
     "motion-ui": "~1.2.2",
-    "requirejs": "latest"
+    "requirejs": "latest",
+    "underscore": "latest",
+    "autosize": "latest"
   },
   "ignore": [
     "**/.*",
